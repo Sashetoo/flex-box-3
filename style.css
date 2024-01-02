@@ -1,0 +1,66 @@
+.red {
+    background-color: indianred;
+    width: 100px;
+    height: 100px;
+    border: 1px dotted blue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    display: flex;
+}
+.purple {
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    border: 1px dotted blue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-2 {
+    display: flex;
+}
+.red-2 {
+    background-color: indianred;
+    width: 100px;
+    height: 100px;
+    border: 1px dotted blue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.purple-2 {
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    border: 1px dotted blue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.white {
+    background-color: #fff;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container-3 {
+    display: flex;
+}
+.container-4 {
+    display: flex;
+}
+.container-5 {
+    display: flex;
+}
